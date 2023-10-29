@@ -1,0 +1,42 @@
+[
+  {
+    "recipeName": "Classic Cheeseburger",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/classic-cheeseburger-recipe-1617736233.jpg?crop=0.625xw:0.935xh;0.0881xw,0.0240xh&resize=1200:*",
+    "ingredients": [
+      "1 lb ground beef",
+      "Salt and pepper to taste",
+      "4 hamburger buns",
+      "4 slices of American cheese",
+      "Lettuce, tomato, onion, and condiments of your choice"
+    ],
+    "cookingMethod": "1. Preheat the grill to medium-high heat. 2. Season the ground beef with salt and pepper, then shape it into four patties. 3. Grill the patties for about 4-5 minutes per side. 4. Toast the hamburger buns on the grill. 5. Assemble the cheeseburgers with lettuce, tomato, onion, and your favorite condiments. 6. Serve hot.",
+    "rating": 4.7
+  },
+  {
+    "recipeName": "Macaroni and Cheese",
+    "image": "https://www.allrecipes.com/thmb/e8uotDI18ieXNBY0KpmtGKbxMRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/238691-Simple-Macaroni-And-Cheese-mfs_008-4x3-6ed91ba87a1344558aacc0f9ef0f4b41.jpg",
+    "ingredients": [
+      "2 cups elbow macaroni",
+      "4 cups shredded sharp cheddar cheese",
+      "2 cups milk",
+      "1/4 cup butter",
+      "1/4 cup all-purpose flour"
+    ],
+    "cookingMethod": "1. Cook the macaroni according to package instructions. 2. In a separate saucepan, melt the butter over medium heat. 3. Stir in the flour until it becomes a paste. 4. Slowly whisk in the milk and cook until the mixture thickens. 5. Add 3 cups of cheese and stir until melted. 6. Combine the cheese sauce with the cooked macaroni. 7. Sprinkle the remaining cheese on top. 8. Bake in the oven at 350°F until bubbly and golden. 9. Serve hot.",
+    "rating": 4.8
+  },
+  {
+    "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2021/10/22/fried_chicken-1024x536.png",
+    "recipeName": "Fried Chicken",
+    "ingredients": [
+      "4 bone-in, skin-on chicken pieces",
+      "2 cups buttermilk",
+      "2 cups all-purpose flour",
+      "1 tablespoon paprika",
+      "1 tablespoon garlic powder",
+      "Salt and pepper to taste"
+    ],
+    "cookingMethod": "1. Place the chicken pieces in a bowl and cover with buttermilk. Refrigerate for at least 1 hour. 2. In a separate bowl, combine the flour, paprika, garlic powder, salt, and pepper. 3. Remove the chicken from the buttermilk and coat with the seasoned flour mixture. 4. Heat oil in a deep fryer or skillet to 350°F. 5. Fry the chicken until golden brown and cooked through. 6. Drain on paper towels. 7. Serve hot.",
+    "rating": 4.6
+  }
+]

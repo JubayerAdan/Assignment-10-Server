@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "img": "https://i.pinimg.com/564x/d2/35/47/d2354797cfb995122e8bf0248cb1fd76.jpg",
+    "Name": "Chef John Smith",
+    "experience": "15 years",
+    "Recipes": 75,
+    "Likes": 12000,
+    "bio": "Chef John Smith is an experienced chef with 15 years in the culinary industry. He has shared 75 delicious recipes, earning 12,000 likes from food enthusiasts."
+  },
+  {
+    "id": "2",
+    "img": "https://i.pinimg.com/736x/5f/9c/91/5f9c91fc2df3edb394de5aa2dd51e408.jpg",
+    "Name": "Chef Emily Johnson",
+    "experience": "10 years",
+    "Recipes": 50,
+    "Likes": 8500,
+    "bio": "Chef Emily Johnson, with 10 years of experience, brings 50 unique recipes to the table. Her culinary creations have garnered 8,500 likes."
+  },
+  {
+    "id": "3",
+    "img": "https://i.pinimg.com/564x/12/ac/60/12ac606896dfc98f4806b7acababed67.jpg",
+    "Name": "Chef Michael Brown",
+    "experience": "20 years",
+    "Recipes": 100,
+    "Likes": 15000,
+    "bio": "With 20 years in the culinary world, Chef Michael Brown has crafted 100 delightful recipes, earning a whopping 15,000 likes."
+  },
+  {
+    "id": "4",
+    "img": "https://i.pinimg.com/564x/a7/fc/f5/a7fcf5f67501543a57a42d7b29534623.jpg",
+    "Name": "Chef Sarah Davis",
+    "experience": "12 years",
+    "Recipes": 60,
+    "Likes": 9500,
+    "bio": "Chef Sarah Davis, with 12 years of experience, presents 60 flavorful recipes that have gained 9,500 likes."
+  },
+  {
+    "id": "5",
+    "img": "https://i.pinimg.com/564x/8d/66/b4/8d66b4c91d177f94e6531b223fa41b1d.jpg",
+    "Name": "Chef David White",
+    "experience": "18 years",
+    "Recipes": 90,
+    "Likes": 13500,
+    "bio": "Chef David White, a seasoned chef with 18 years in the kitchen, offers 90 mouthwatering recipes and has received 13,500 likes."
+  },
+  {
+    "id": "6",
+    "img": "https://i.pinimg.com/564x/e9/62/1d/e9621dded0d14870846d6e485940787a.jpg",
+    "Name": "Chef Olivia Lee",
+    "experience": "8 years",
+    "Recipes": 40,
+    "Likes": 7500,
+    "bio": "Chef Olivia Lee, with 8 years of culinary experience, shares 40 delightful recipes and has garnered 7,500 likes."
+  }
+]
